@@ -17,6 +17,7 @@ public class Ing_sw_mgpi {
     public static void main(String[] args) {
         System.out.println("Hola mundo");
         System.out.println("Validacion");
+        System.out.println("Diegito enfermito");
         
     }
     
