@@ -18,7 +18,7 @@ public class Ing_sw_mgpi {
         System.out.println("Hola mundo");
         System.out.println("Validacion");
         System.out.println("Version número 4");
-        
+        System.out.println("Hola bobita");
     }
     
 }
